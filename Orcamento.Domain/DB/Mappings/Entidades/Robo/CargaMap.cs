@@ -1,6 +1,5 @@
 ﻿using FluentNHibernate.Mapping;
 using Orcamento.Domain.Entities.Monitoramento;
-using Orcamento.Domain.Entities.Monitoramento;
 using System;
 using System.Collections.Generic;
 using System.Linq;
